@@ -2,7 +2,7 @@
 name = "apple-roulette"
 version = "0.1.0"
 authors = ["Andrei Odintsov <forestryks1@gmail.com>"]
-license = "MIT or Apache-2.0"
+license = "MIT OR Apache-2.0"
 homepage = "https://github.com/Forestryks/apple-roulette"
 repository = "https://github.com/Forestryks/apple-roulette"
 description = "Want some strudel?"
