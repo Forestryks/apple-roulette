@@ -1,4 +1,4 @@
-# Apple Roulette [![Crates.io](https://img.shields.io/crates/v/apple-roulette.svg)](https://crates.io/crates/apple-roulette)
+# 🍏 Apple Roulette [![Crates.io](https://img.shields.io/crates/v/apple-roulette.svg)](https://crates.io/crates/apple-roulette)
 
 Штрудель?
 
