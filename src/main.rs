@@ -40,7 +40,7 @@ fn main() {
         .filter(|result| result.detection_result != DetectionResult::NotApple)
         .count();
 
-    if apples_count > args.panic_after {
+    if apples_count >= args.panic_after {
         too_many_apples();
     }
 
