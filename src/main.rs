@@ -54,10 +54,8 @@ fn main() {
         log::info!("{} {} {}", emoji, result.mac, result.ip);
     }
 
-    log::info!(
-        "Detected {}/{} ({} would have killed you)",
-        apples_count,
-        results.len(),
-        args.panic_after
+    println!(
+        "Detected {} apples ({} would have made strudel out of you)",
+        apples_count, args.panic_after
     );
 }
